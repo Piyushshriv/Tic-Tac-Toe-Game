@@ -1,1 +1,2 @@
 # Tic-Tac-Toe-Game
+This is a simple Tic-Tac-Toe game built using [your technology: HTML,CSS, JavaScript, etc.]. It allows two players to take turns marking spaces on a 3x3 grid until one wins or the game ends in a draw. The game features an intuitive interface, real-time win detection, and the ability to restart easily. Future improvements may include an AI opponent, an online multiplayer mode, and enhanced UI/UX. Feel free to explore, contribute, and enhance the game! 🚀
